@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    font-weight: 300;
+   
+}
+.nav-link {
+    color: #000;
+    font-size: large;
+}
+.nav-link:hover {
+    color:blue;
+
+}
+
+h3 {
+    font-weight: 300;
+}
+
+ul li {
+    list-style: none;
+}
+
+.responsive {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+  }
+
+@media screen 
